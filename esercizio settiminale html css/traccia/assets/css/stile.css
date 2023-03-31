@@ -1,0 +1,83 @@
+body {text-align: center;}
+
+body {font-family: 'Open Sans', sans-serif;}
+
+  h1, h2, h3, h4, h5, h6 { 
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 900;}
+
+h1 {color:#2596be ; font-size: 200%;}
+h2 {color:#2596be ;
+margin-top: 30px;}
+
+
+header { background-color: black; padding: 15%;}
+
+.banner {background-image: url(/traccia/assets/images/banner.jpg); 
+    background-size: cover;
+    z-index: -1;
+padding: 15%;
+}
+
+div button { background-color: rgb(237, 71, 11);
+color: white;
+border-radius: 10%;
+border-style: none;
+height: 30px;
+width: 100px;}
+
+.sez1 img { border-radius: 50%;}
+
+
+
+
+
+.garanzia { background-color:  rgb(237, 71, 11);
+color: white;
+margin-top: 30px;
+margin-bottom: 30px;
+padding-top: 30px;
+padding-bottom: 30px;}
+.garanzia h3 {font-size: 20px; font-weight: 800;}
+.garanzia cite {font-style: italic}
+#ceo {font-size: x-small;}
+
+
+
+
+
+
+
+
+
+
+
+figure {
+    border: 2px #cccccc solid;
+    padding: 0px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 30px;
+  }
+  
+  figcaption {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;}
+
+    figure img {width: 100%;}
+
+    footer div {background-color: rgb(39, 165, 194);
+    color: white;}
+    footer a {color: white; }
+    footer h2 {color:  white; font-weight: 1000;
+         font-size: larger;
+        margin-bottom: 15px;
+    margin-top: 15px;
+padding: 5%;}
+
+footer{line-height: 1.3rem;}
+
+hr {margin-left: 120px;
+    margin-right: 120px;}
