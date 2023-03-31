@@ -63,8 +63,7 @@ figure {
   figcaption {
     background-color: white;
     color: black;
-    padding: 20px;
-    text-align: center;}
+    padding: 20px;}
 
     figure img {width: 100%;}
 
@@ -78,6 +77,8 @@ figure {
 padding: 5%;}
 
 footer{line-height: 1.3rem;}
+
+i {color: white;}
 
 hr {margin-left: 120px;
     margin-right: 120px;}
